@@ -1,0 +1,1 @@
+<view class="thirdcontent data-v-692db9e8"><view class="left data-v-692db9e8"><view class="icon data-v-692db9e8"><slot></slot></view><view class="text data-v-692db9e8">{{''+text+''}}</view></view><view class="right data-v-692db9e8"><view class="icon-4 data-v-692db9e8"></view></view></view>

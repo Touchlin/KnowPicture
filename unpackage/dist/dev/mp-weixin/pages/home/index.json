@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "uni-badge": "/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge",
+    "uni-segmented-control": "/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control",
+    "home-recommend": "/pages/home/home-recommend/home-recommend",
+    "home-category": "/pages/home/home-category/home-category",
+    "home-album": "/pages/home/home-album/home-album"
+  }
+}

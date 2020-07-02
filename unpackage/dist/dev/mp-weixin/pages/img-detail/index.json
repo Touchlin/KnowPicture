@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "图片详情",
+  "usingComponents": {
+    "ratings": "/components/ratings/ratings",
+    "swiper-action": "/components/swiper/swiper"
+  }
+}
