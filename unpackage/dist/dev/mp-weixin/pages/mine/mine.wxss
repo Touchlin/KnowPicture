@@ -24,11 +24,11 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.mine.data-v-5be1c742 {
+.mine.data-v-dcbcfe34 {
   height: 100vh;
   background-color: #f3f5f7;
 }
-.mine .header.data-v-5be1c742 {
+.mine .header.data-v-dcbcfe34 {
   background-color: #fff;
   padding: 40rpx;
   display: -webkit-box;
@@ -38,46 +38,45 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.mine .header .userimg image.data-v-5be1c742 {
+.mine .header .userimg image.data-v-dcbcfe34 {
   width: 180rpx;
   height: 180rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
-.mine .header .text.data-v-5be1c742 {
+.mine .header .text.data-v-dcbcfe34 {
   margin-left: 30rpx;
 }
-.mine .header .text .login.data-v-5be1c742 {
+.mine .header .text .login.data-v-dcbcfe34 {
   font-size: 36rpx;
   color: #000;
 }
-.mine .header .text .desc.data-v-5be1c742 {
+.mine .header .text .desc.data-v-dcbcfe34 {
   font-size: 28rpx;
   color: #666;
   margin-top: 10rpx;
 }
-.mine .playrecord.data-v-5be1c742 {
+.mine .playrecord.data-v-dcbcfe34 {
   background-color: #fff;
   margin-top: 20rpx;
   padding: 30rpx;
 }
-.mine .playrecord image.data-v-5be1c742 {
+.mine .playrecord image.data-v-dcbcfe34 {
   width: 100%;
   height: 100%;
 }
-.mine .all.data-v-5be1c742 {
+.mine .all.data-v-dcbcfe34 {
   background-color: #fff;
   margin-top: 20rpx;
 }
-.mine .all image.data-v-5be1c742 {
+.mine .all image.data-v-dcbcfe34 {
   width: 100%;
   height: 100%;
 }
-.mine .all .label.data-v-5be1c742 {
+.mine .all .label.data-v-dcbcfe34 {
   padding: 30rpx;
   border-bottom: 1rpx solid rgba(7, 17, 27, 0.1);
 }
-.mine .all .relation.data-v-5be1c742 {
+.mine .all .relation.data-v-dcbcfe34 {
   padding: 30rpx;
 }
 

@@ -3,6 +3,7 @@
     "pages/home/index",
     "pages/video/video",
     "pages/mine/mine",
+    "pages/album-detail/index",
     "pages/img-detail/index",
     "pages/video-play/index"
   ],
@@ -36,5 +37,5 @@
     ]
   },
   "usingComponents": {},
-  "sitemapLocation": "sitemap17.json"
+  "sitemapLocation": "sitemap30.json"
 }

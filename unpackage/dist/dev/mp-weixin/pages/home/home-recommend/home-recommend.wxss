@@ -24,10 +24,10 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.home-wrapper.data-v-6bc7cadc {
+.home-wrapper.data-v-173371b8 {
   height: calc(100vh - 36px);
 }
-.home-wrapper .home-recommend.data-v-6bc7cadc {
+.home-wrapper .home-recommend.data-v-173371b8 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -37,11 +37,11 @@
   -webkit-justify-content: center;
           justify-content: center;
 }
-.home-wrapper .home-recommend .recommend.data-v-6bc7cadc {
+.home-wrapper .home-recommend .recommend.data-v-173371b8 {
   width: 48%;
   border: 5rpx solid #fff;
 }
-.home-wrapper .month-wrapper .title.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .title.data-v-173371b8 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -55,21 +55,21 @@
   padding: 20rpx;
   font-weight: 600;
 }
-.home-wrapper .month-wrapper .title .month-left.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .title .month-left.data-v-173371b8 {
   font-size: 28rpx;
 }
-.home-wrapper .month-wrapper .title .month-left .number.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .title .month-left .number.data-v-173371b8 {
   font-size: 30rpx;
 }
-.home-wrapper .month-wrapper .title .month-left .text.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .title .month-left .text.data-v-173371b8 {
   font-size: 32rpx;
   color: #666;
   margin-left: 16rpx;
 }
-.home-wrapper .month-wrapper .title .month-right.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .title .month-right.data-v-173371b8 {
   font-size: 30rpx;
 }
-.home-wrapper .month-wrapper .content.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .content.data-v-173371b8 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -78,20 +78,20 @@
   -webkit-justify-content: space-around;
           justify-content: space-around;
 }
-.home-wrapper .month-wrapper .content .content-item.data-v-6bc7cadc {
+.home-wrapper .month-wrapper .content .content-item.data-v-173371b8 {
   width: 33%;
 }
-.home-wrapper .hot-wrapper .hot-title.data-v-6bc7cadc {
+.home-wrapper .hot-wrapper .hot-title.data-v-173371b8 {
   padding: 20rpx;
 }
-.home-wrapper .hot-wrapper .hot-title text.data-v-6bc7cadc {
+.home-wrapper .hot-wrapper .hot-title text.data-v-173371b8 {
   font-size: 30rpx;
   color: #666;
   font-weight: 600;
   border-left: 10rpx solid #d4237a;
   padding-left: 16rpx;
 }
-.home-wrapper .hot-wrapper .hot-content.data-v-6bc7cadc {
+.home-wrapper .hot-wrapper .hot-content.data-v-173371b8 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -100,20 +100,18 @@
   -webkit-justify-content: space-around;
           justify-content: space-around;
 }
-.home-wrapper .hot-wrapper .hot-content .hot-item.data-v-6bc7cadc {
+.home-wrapper .hot-wrapper .hot-content .hot-item.data-v-173371b8 {
   width: 33%;
 }
-.home-wrapper .backTop.data-v-6bc7cadc {
+.home-wrapper .backTop.data-v-173371b8 {
   width: 60rpx;
   height: 60rpx;
   background: #fff;
   position: fixed;
   right: 40rpx;
   bottom: 100rpx;
-  -webkit-border-radius: 30rpx;
-          border-radius: 30rpx;
-  -webkit-box-shadow: 0px 0px 3px #000;
-          box-shadow: 0px 0px 3px #000;
+  border-radius: 30rpx;
+  box-shadow: 0px 0px 3px #000;
   line-height: 60rpx;
   text-align: center text;
   text-align-font-size: 45rpx;

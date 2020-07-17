@@ -19,6 +19,12 @@
 			}
 		},
 		{
+			"path": "pages/album-detail/index",
+			"style": {
+				"navigationBarTitleText": "专辑详情"
+			}
+		},
+		{
 			"path": "pages/img-detail/index",
 			"style": {
 				"navigationBarTitleText": "图片详情"

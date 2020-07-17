@@ -24,45 +24,45 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.album.data-v-31af4b08 {
+.album.data-v-61269d58 {
   height: calc(100vh - 36px);
 }
-.album .album-banner.data-v-31af4b08 {
+.album .album-banner.data-v-61269d58 {
   height: calc(750rpx / (640 / 284));
 }
-.album .album-list.data-v-31af4b08 {
+.album .album-list.data-v-61269d58 {
   padding: 10rpx;
 }
-.album .album-list .album-item.data-v-31af4b08 {
+.album .album-list .album-item.data-v-61269d58 {
   padding: 10rpx 0;
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
   border-bottom: 1px solid rgba(7, 17, 27, 0.1);
 }
-.album .album-list .album-item .left.data-v-31af4b08 {
+.album .album-list .album-item .left.data-v-61269d58 {
   padding: 10rpx;
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
 }
-.album .album-list .album-item .left image.data-v-31af4b08 {
+.album .album-list .album-item .left image.data-v-61269d58 {
   width: 220rpx;
   height: 220rpx;
 }
-.album .album-list .album-item .right.data-v-31af4b08 {
+.album .album-list .album-item .right.data-v-61269d58 {
   -webkit-box-flex: 2;
   -webkit-flex: 2;
           flex: 2;
   padding: 0 10rpx;
   position: relative;
 }
-.album .album-list .album-item .right .name.data-v-31af4b08 {
+.album .album-list .album-item .right .name.data-v-61269d58 {
   font-size: 30rpx;
   color: #000;
   padding: 10rpx 0;
 }
-.album .album-list .album-item .right .desc.data-v-31af4b08 {
+.album .album-list .album-item .right .desc.data-v-61269d58 {
   width: 460rpx;
   font-size: 28rpx;
   padding: 10rpx 0;
@@ -71,7 +71,7 @@
   white-space: nowrap;
   overflow: hidden;
 }
-.album .album-list .album-item .right .focus.data-v-31af4b08 {
+.album .album-list .album-item .right .focus.data-v-61269d58 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -84,9 +84,9 @@
   font-size: 28rpx;
   color: #d4237a;
   border: 1px solid #d4237a;
-  padding: 8rpx;
+  padding: 8rpx 15rpx;
 }
-.album .album-list .album-item .right .focus .icon-add_circle.data-v-31af4b08 {
+.album .album-list .album-item .right .focus .icon-add_circle.data-v-61269d58 {
   margin-right: 10rpx;
 }
 

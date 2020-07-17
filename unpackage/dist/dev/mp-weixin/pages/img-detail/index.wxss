@@ -24,7 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.img-detail .user-info.data-v-149d7efb {
+.img-detail .user-info.data-v-00a73652 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -33,25 +33,24 @@
           align-items: center;
   padding: 40rpx;
 }
-.img-detail .user-info .user-photo.data-v-149d7efb {
+.img-detail .user-info .user-photo.data-v-00a73652 {
   width: 88rpx;
   height: 88rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
-.img-detail .user-info .name-apply.data-v-149d7efb {
+.img-detail .user-info .name-apply.data-v-00a73652 {
   margin-left: 20rpx;
 }
-.img-detail .user-info .name-apply .user-name.data-v-149d7efb {
+.img-detail .user-info .name-apply .user-name.data-v-00a73652 {
   font-weight: 600;
   color: #000;
 }
-.img-detail .user-info .name-apply .user-apply.data-v-149d7efb {
+.img-detail .user-info .name-apply .user-apply.data-v-00a73652 {
   font-size: 24rpx;
   color: #ccc;
   margin-top: 5rpx;
 }
-.img-detail .operation.data-v-149d7efb {
+.img-detail .operation.data-v-00a73652 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -63,54 +62,53 @@
   line-height: 60rpx;
   border-bottom: 1px solid rgba(7, 17, 27, 0.1);
 }
-.img-detail .operation .icon.data-v-149d7efb {
+.img-detail .operation .icon.data-v-00a73652 {
   font-size: 32rpx;
   vertical-align: -2rpx;
   color: #ccc;
   margin-right: 10rpx;
 }
-.img-detail .operation .approve.data-v-149d7efb {
+.img-detail .operation .approve.data-v-00a73652 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
 }
-.img-detail .operation .focus.data-v-149d7efb {
+.img-detail .operation .focus.data-v-00a73652 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
 }
-.img-detail .img-ratings.data-v-149d7efb {
+.img-detail .img-ratings.data-v-00a73652 {
   padding: 0 24rpx;
   border-bottom: 1px solid rgba(7, 17, 27, 0.1);
 }
-.img-detail .ratings-list.data-v-149d7efb {
+.img-detail .ratings-list.data-v-00a73652 {
   padding: 20rpx 30rpx;
 }
-.img-detail .ratings-list .ratings-item.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item.data-v-00a73652 {
   padding: 20rpx 0;
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
   border-bottom: 1rpx solid rgba(7, 17, 27, 0.1);
 }
-.img-detail .ratings-list .ratings-item .left.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .left.data-v-00a73652 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 80rpx;
           flex: 0 0 80rpx;
   margin-right: 24rpx;
 }
-.img-detail .ratings-list .ratings-item .left image.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .left image.data-v-00a73652 {
   width: 70rpx;
   height: 70rpx;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 50%;
 }
-.img-detail .ratings-list .ratings-item .right.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .right.data-v-00a73652 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
 }
-.img-detail .ratings-list .ratings-item .right .name-time.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .right .name-time.data-v-00a73652 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -121,16 +119,16 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.img-detail .ratings-list .ratings-item .right .name-time .name.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .right .name-time .name.data-v-00a73652 {
   font-size: 24rpx;
   line-height: 24rpx;
   color: #07111b;
 }
-.img-detail .ratings-list .ratings-item .right .name-time .time.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .right .name-time .time.data-v-00a73652 {
   font-size: 24rpx;
   color: #93999f;
 }
-.img-detail .ratings-list .ratings-item .right .bottom.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .right .bottom.data-v-00a73652 {
   color: #07111b;
   line-height: 36rpx;
   margin-top: 36rpx;
@@ -144,14 +142,14 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.img-detail .ratings-list .ratings-item .right .bottom .icon-num .number.data-v-149d7efb {
+.img-detail .ratings-list .ratings-item .right .bottom .icon-num .number.data-v-00a73652 {
   margin: 0 10rpx;
   font-size: 30rpx;
 }
-.img-detail .no-ratings.data-v-149d7efb {
+.img-detail .no-ratings.data-v-00a73652 {
   padding: 20rpx 30rpx;
 }
-.img-detail .download.data-v-149d7efb {
+.img-detail .download.data-v-00a73652 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -164,7 +162,7 @@
   width: 100%;
   height: 100rpx;
 }
-.img-detail .download .down-btn.data-v-149d7efb {
+.img-detail .download .down-btn.data-v-00a73652 {
   width: 95%;
   height: 80rpx;
   line-height: 80rpx;

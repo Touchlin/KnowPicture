@@ -121,6 +121,7 @@
 				width: 152rpx;
 				height: 50rpx;
 				line-height: 50rpx;
+				padding: 0 10rpx;
 				font-size: 28rpx;
 				background-color: $color;
 				text-align: center;

@@ -24,34 +24,34 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.video-play.data-v-0c1e18e6 {
+.video-play.data-v-11a6027c {
   position: relative;
 }
-.video-play .video-operation.data-v-0c1e18e6 {
+.video-play .video-operation.data-v-11a6027c {
   position: absolute;
   bottom: 20rpx;
   right: 20rpx;
 }
-.video-play .video-start.data-v-0c1e18e6 {
+.video-play .video-start.data-v-11a6027c {
   position: relative;
 }
-.video-play .video-start video.data-v-0c1e18e6 {
+.video-play .video-start video.data-v-11a6027c {
   width: 100vw;
   height: 100vh;
 }
-.video-play .video-start .icon.data-v-0c1e18e6 {
+.video-play .video-start .icon.data-v-11a6027c {
   font-size: 66rpx;
   color: #fff;
   position: absolute;
   right: 60rpx;
 }
-.video-play .video-start .icon-2.data-v-0c1e18e6, .video-play .video-start .icon-3.data-v-0c1e18e6 {
+.video-play .video-start .icon-2.data-v-11a6027c, .video-play .video-start .icon-3.data-v-11a6027c {
   bottom: 400rpx;
 }
-.video-play .video-start .icon-4.data-v-0c1e18e6 {
+.video-play .video-start .icon-4.data-v-11a6027c {
   bottom: 260rpx;
 }
-.video-play .video-start .btn.data-v-0c1e18e6 {
+.video-play .video-start .btn.data-v-11a6027c {
   position: absolute;
   bottom: 260rpx;
   right: 60rpx;
@@ -59,10 +59,10 @@
   width: 66rpx;
   height: 66rpx;
 }
-.video-play .video-start .icon-uniE906.data-v-0c1e18e6 {
+.video-play .video-start .icon-uniE906.data-v-11a6027c {
   bottom: 120rpx;
 }
-.video-play .video-start .icon-uniE907.data-v-0c1e18e6 {
+.video-play .video-start .icon-uniE907.data-v-11a6027c {
   position: fixed;
   top: 50%;
   left: 50%;

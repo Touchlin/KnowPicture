@@ -24,12 +24,11 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.segmented-control.data-v-1c702cee {
+.segmented-control.data-v-071a40dc {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -37,12 +36,11 @@
   height: 36px;
   overflow: hidden;
 }
-.segmented-control__item.data-v-1c702cee {
+.segmented-control__item.data-v-071a40dc {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
   display: inline-flex;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   position: relative;
   -webkit-box-flex: 1;
   -webkit-flex: 1;
@@ -54,31 +52,27 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.segmented-control__item--button.data-v-1c702cee {
+.segmented-control__item--button.data-v-071a40dc {
   border-style: solid;
   border-top-width: 1px;
   border-bottom-width: 1px;
   border-right-width: 1px;
   border-left-width: 0;
 }
-.segmented-control__item--button--first.data-v-1c702cee {
+.segmented-control__item--button--first.data-v-071a40dc {
   border-left-width: 1px;
-  -webkit-border-top-left-radius: 5px;
-          border-top-left-radius: 5px;
-  -webkit-border-bottom-left-radius: 5px;
-          border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
-.segmented-control__item--button--last.data-v-1c702cee {
-  -webkit-border-top-right-radius: 5px;
-          border-top-right-radius: 5px;
-  -webkit-border-bottom-right-radius: 5px;
-          border-bottom-right-radius: 5px;
+.segmented-control__item--button--last.data-v-071a40dc {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
-.segmented-control__item--text.data-v-1c702cee {
+.segmented-control__item--text.data-v-071a40dc {
   border-bottom-style: solid;
   border-bottom-width: 3px;
 }
-.segmented-control__text.data-v-1c702cee {
+.segmented-control__text.data-v-071a40dc {
   font-size: 16px;
   line-height: 20px;
   text-align: center;

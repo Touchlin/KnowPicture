@@ -17,7 +17,7 @@
 					<view class="name">{{item.name}}</view>
 					<view class="desc">{{item.desc}}</view>
 					<view class="focus">
-						<text class="icon-add_circle"></text>
+	<!-- 					<text class="icon-add_circle"></text> -->
 						<text>关注</text>
 					</view>
 				</view>
@@ -72,6 +72,7 @@
 				}
 			},
 			goAlbumDetail(id) {
+				console.log('album')
 				uni.navigateTo({
 					url: `/pages/album-detail/index?id=${id}`,
 				})
@@ -136,7 +137,7 @@
 					font-size: 28rpx;
 					color: $color;
 					border:1px solid $color;
-					padding: 8rpx;
+					padding: 8rpx 15rpx;
 					.icon-add_circle{
 						margin-right: 10rpx;
 					}
